@@ -166,6 +166,11 @@ h1 {
   padding-top: 42px;
 }
 
+.style-footer a {
+  text-decoration: none;
+  color: black;
+}
+
 .style-footer span{
   color: #68c4a9;
 }
